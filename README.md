@@ -3,11 +3,9 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
-
-
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
-
-<br />
+<a href="#" target="_blank">
+  <img src="manhtoan" width="1200" alt="manhtoan-official" />
+</a>
 
 ## 📫 How to reach me:
 
