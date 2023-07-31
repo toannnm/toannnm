@@ -4,7 +4,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 <a href="#" target="_blank">
-  <img src="manhtoan" width="1200" alt="manhtoan-official" />
+  <img src="svg/manhtoan.svg" width="1200" alt="manhtoan-official" />
 </a>
 
 ## 📫 How to reach me:
