@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Manh Toan</h1>
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+<h1 align="center">Hello Everyone 👋</h1>
+<h1 align="center">
+<p>My fullname is
 </p>
+  <img src="svg/name.svg" alt="Marton Lederer" />
+  <p align="center">
+  <h3 align="center">A passionate developer from Vietnam </h3>
+</p>
+</h1>
 <a href="#" target="_blank">
   <img src="svg/manhtoan.svg" width="1200" alt="manhtoan-official" />
 </a>
