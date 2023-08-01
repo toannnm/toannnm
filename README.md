@@ -71,5 +71,5 @@
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Software Development](https://coursera.org/share/0e451c4f37a6e2d87c1ac6c55017ec96)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) CertNexus Certified Ethical Emerging Technologist](https://coursera.org/share/6939772be794ae780f7d5005f48ac639)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Academic English: Writing](https://coursera.org/share/fced0ea17cd916f7fb2fdeb0d27c0c77)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Web Design for Everybody: Basics of Web Development & Coding](https://coursera.org/share/d41528030265159c4c446d9d287aa22f)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) https://coursera.org/share/43f58c93d983e51d1e17cb5c45a461bd](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Computer Communications](https://coursera.org/share/43f58c93d983e51d1e17cb5c45a461bd)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Academic Skills for University Success](https://coursera.org/share/a9aaa1d8a173afa4031edae7f1e379c5)
