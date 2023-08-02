@@ -47,6 +47,7 @@
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img width="48" height="48" src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="postman-api"/>
