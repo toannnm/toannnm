@@ -2,7 +2,7 @@
 <h1 align="center">
 <p>My fullname is
 </p>
-  <img src="svg/name.svg" alt="Marton Lederer" />
+  <img src="svg/name.svg" alt="ToanNguyen" />
   <p align="center">
   <h3 align="center">A passionate developer from Vietnam </h3>
 </p>
